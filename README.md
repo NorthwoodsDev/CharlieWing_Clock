@@ -1,5 +1,5 @@
 # CharlieWing_Clock
-<H1>Display scrolling time on a CharlieWing using onboard M4/M0 RTC</H1></BR>
+<H5>Display scrolling time on a CharlieWing using onboard M4/M0 RTC</H5></BR>
 </BR>
 <P>With a <a href="https://www.adafruit.com/product/3857">M4 ATSAMD51</a> 
   or <a href="https://www.adafruit.com/product/2772">M0 ATSAMD21</a>, 
