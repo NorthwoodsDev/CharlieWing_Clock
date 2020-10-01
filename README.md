@@ -5,7 +5,7 @@
 unsing the M4/M0 built in RTC.</P></BR>
 </BR>
 Reqiured Libraries</BR>
-<OL>
+<UL>
 <LI>adafruit_framebuf</LI>
 <LI>adafruit_is31fl3731</LI>
-</OL>
+</UL>
